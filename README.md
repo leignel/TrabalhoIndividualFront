@@ -21,4 +21,4 @@
  <img src="https://github.com/leignel/TrabalhoIndividualFront/assets/141193350/5fbc4161-8057-48b7-b4c9-1ab87c27344b" height="40" width="40"> <a href="https://code.visualstudio.com">Vscode</a>
 
  <h2>Autor</h2>  
- <img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="50" width="50"><a href="https://github.com/leignel">Cristian Leignel</a> 
+ <img src="https://github.com/leignel/TrabalhoIndividualFront/assets/141193350/01be67df-32f2-458f-81df-67e1ad97022d" height="50" width="50"><a href="https://github.com/leignel">Cristian Leignel</a> 
