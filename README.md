@@ -12,7 +12,7 @@
   <li>Página Contato;</li>
   <li>Hover no menu de navegação;</li>
   <li>Elemento Position: Fixed;</li>
-  <li>Tag <img>;</li>
+  <li>Tag img;</li>
   <li>Fonte externa utilizazndo o Google Fontes;</li>
   <li>Elementos com tamanhos em px e %;</li>
   <li>Css dentro da pasta css e imagem dentro da pasta img;</li>
