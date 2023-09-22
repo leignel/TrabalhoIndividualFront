@@ -5,7 +5,7 @@
 <img src="https://github.com/leignel/TrabalhoIndividualFront/assets/141193350/aece23b6-29ad-473a-87e7-29ee6f7c0ab7">
 </div>
 
-<p>Este é um pequeno site feito com o objetivo de praticar alguns elementos básicos de HTML e CSS.</p>
+<p>Este é um pequeno site feito com o objetivo de praticar alguns elementos básicos de HTML e CSS. É um trabalho da disciplina de FrontEnd Essencial da Residência em TIC/Software do Serratec que tem como objetivo simular um currículo.</p>
 
 <h2>Principais Itens:</h2>
   <li>Página Home;</li>
